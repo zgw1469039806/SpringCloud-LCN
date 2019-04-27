@@ -20,7 +20,7 @@ public class WcService implements  ServiceUpdate{
     @Autowired
     WcEntityMapper wcEntityMapper;
 
-    @LcnTransaction
+   @LcnTransaction
     @Transactional
     @Override
     public void update()

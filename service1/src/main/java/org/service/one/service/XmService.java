@@ -1,5 +1,6 @@
 package org.service.one.service;
 
+
 import com.codingapi.txlcn.tc.annotation.LcnTransaction;
 import org.service.one.entity.XmEntity;
 import org.service.one.mapper.XmEntityMapper;

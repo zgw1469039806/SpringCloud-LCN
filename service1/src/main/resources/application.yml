@@ -5,6 +5,8 @@ spring:
     username: root
     password: 123123123
     url: jdbc:mysql://127.0.0.1:3306/test1?characterEncoding=utf-8&useSSL=false
+  application:
+    name: service1
 eureka:
   client:
     service-url:
