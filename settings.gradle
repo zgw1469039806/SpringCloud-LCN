@@ -1,0 +1,5 @@
+rootProject.name = 'tcc'
+include 'eureka'
+include 'service1'
+include 'service2'
+
